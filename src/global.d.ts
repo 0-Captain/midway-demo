@@ -1,0 +1,3 @@
+interface CustomUser {
+  name: string;
+}
